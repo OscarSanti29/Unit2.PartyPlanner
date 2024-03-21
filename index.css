@@ -1,0 +1,20 @@
+#Parties .party{
+    padding: 20px;
+}
+
+#Parties .name{
+    color: red;
+    font-size: 20px;
+}
+
+#Parties .date{
+    color:blue;
+}
+
+#Parties .description{
+    color: green;
+}
+
+#Parties .location{
+    color: purple;
+}
